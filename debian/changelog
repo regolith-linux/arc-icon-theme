@@ -1,0 +1,6 @@
+arc-icon-theme (20161122-1) bionic; urgency=medium
+
+  [ Ken Gilmer ]
+  * Initial release from https://github.com/horst3180/arc-icon-theme
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Sun, 19 Dec 2021 11:00:56 -0800
