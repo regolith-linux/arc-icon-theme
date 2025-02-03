@@ -1,3 +1,16 @@
+arc-icon-theme (20250203-1) bionic; urgency=medium
+
+  [ Khosrow Moossavi ]
+  * feat: enable github action to test pull requests
+  * feat: enable github action to publish to unstable
+  * feat: enable github action to publish to testing
+  * feat: enable github action to prepare release
+  * fix: typo in  actions branch names
+  * chore: use regolith-ci-bot user and token
+  * fix: create release tag from correct git sha
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Mon, 03 Feb 2025 20:38:30 +0000
+
 arc-icon-theme (20161122-1) bionic; urgency=medium
 
   [ Ken Gilmer ]
